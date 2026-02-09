@@ -6,3 +6,9 @@ welcome to git on 4 feb
 welcome to git on 5 feb
 
 harshad
+
+My Name is harshad SYCO-D
+
+This line is added in my feature-1 branch
+
+welcome to git on 9 feb
